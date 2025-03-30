@@ -1,6 +1,7 @@
 import test
 import test2
 
+# just testing functional
 print("hello, world")
 print(test.test())
 print(test.test2())
